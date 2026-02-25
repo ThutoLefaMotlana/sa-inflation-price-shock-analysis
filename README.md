@@ -1,5 +1,3 @@
-# sa-inflation-price-shock-analysis
-
 # South Africa Inflation vs Global Inflation Shocks (1970–2022)
 
 ## Project Overview
